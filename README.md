@@ -11,4 +11,4 @@ Front-end for an e-commerce clothes selling website.
 <br/>
 
 ## Screenshots
-(Demo_Look/Web_Look_1.png)
+![Screenshot 1](Demo_Look/Web_Look_1.png)
