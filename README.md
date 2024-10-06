@@ -11,11 +11,11 @@ Front-end for an e-commerce clothes selling website.
 <br/>
 
 ## Screenshots
-<img src="Demo_look/Web_look_1.PNG" width = "100%">
-<img src="Demo_look/Web_look_2.PNG" width = "100%">
-<img src="Demo_look/Web_look_3.PNG" width = "100%">
-<img src="Demo_look/Web_look_4.PNG" width = "100%">
-<img src="Demo_look/Web_look_5.PNG" width = "100%">
-<img src="Demo_look/Web_look_6.PNG" width = "100%">
-<img src="Demo_look/Web_look_7.PNG" width = "100%">
+<img src="Demo_look/Web_look_1.png" width = "100%">
+<img src="Demo_look/Web_look_2.png" width = "100%">
+<img src="Demo_look/Web_look_3.png" width = "100%">
+<img src="Demo_look/Web_look_4.png" width = "100%">
+<img src="Demo_look/Web_look_5.png" width = "100%">
+<img src="Demo_look/Web_look_6.png" width = "100%">
+<img src="Demo_look/Web_look_7.png" width = "100%">
 
