@@ -15,9 +15,6 @@ Front-end for an e-commerce clothes selling website.
 <br/>
 ![Screenshot 3](Demo_Look/Web_Look_3.png)
 <br/>
-## Poster
-![Screenshot 2](Demo_Look/Web_Look_2.png)
-<br/>
 ## NewsLetter
 ![Screenshot 4](Demo_Look/Web_Look_4.png)
 <br/>
