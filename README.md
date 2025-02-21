@@ -1,6 +1,7 @@
 # 🛍️ E-Commerce Website Frontend
 <br/>
 🛍️ [Click here](https://emporifyx.netlify.app/) to explore the project.  
+
 # Overview
 
 EmporifyX is a modern, responsive e-commerce website frontend built for a seamless online shopping experience. It features an intuitive UI, product browsing, cart management, and a user-friendly checkout process. Designed with performance and scalability in mind, this project enhances the user journey from product discovery to purchase.
