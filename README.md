@@ -1,6 +1,6 @@
 # 🛍️ E-Commerce Website Frontend
 <br/>
-🛍️ [Click here](https://emporifyx.netlify.app/) to explore the project.  
+🛍️ **Click here** (https://emporifyx.netlify.app/) to explore the project.  
 
 # Overview
 
